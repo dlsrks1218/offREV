@@ -124,8 +124,8 @@
 	</dependencyManagement>
 
 	<build>
-		<!-- ROOT.war 가 생성된다. -->
-        <finalName>ROOT</finalName>
+		<!-- review.war 가 생성된다. -->
+        <finalName>review</finalName>
 	
 		<plugins>
 			<plugin>
