@@ -13,8 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>review</name>
-	
-        
 
 	<description>Review project for Spring Boot</description>
 
