@@ -5669,6 +5669,107 @@ org.springframework.security.access.AccessDeniedException: Access is denied
 2020-02-04 13:50:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-04 13:50:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-04 13:50:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+<<<<<<< HEAD
+2020-02-04 13:51:37.145 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:51:37.145 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:51:37.145 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:52:37.152 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:52:37.152 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:52:37.152 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:53:37.154 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:53:37.155 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:53:37.155 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:54:37.120 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:54:37.120 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:54:37.120 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:55:37.122 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:55:37.122 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:55:37.122 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:56:37.127 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:56:37.127 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:56:37.127 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:57:37.132 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:57:37.133 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:57:37.133 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:58:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:58:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:58:37.139 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:59:37.145 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:59:37.145 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 13:59:37.146 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:00:37.147 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:00:37.148 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:00:37.148 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:01:37.151 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:01:37.151 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:01:37.151 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:02:37.154 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:02:37.154 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:02:37.154 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:03:37.158 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:03:37.158 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:03:37.158 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:04:37.165 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:04:37.166 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:04:37.166 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:05:37.169 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:05:37.170 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:05:37.170 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:06:37.176 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:06:37.176 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:06:37.176 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:07:37.179 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:07:37.179 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:07:37.179 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:08:37.183 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:08:37.183 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:08:37.183 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:09:37.188 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:09:37.189 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:09:37.189 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:10:37.193 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:10:37.193 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:10:37.193 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:11:37.200 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:11:37.200 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:11:37.200 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:12:37.204 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:12:37.204 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:12:37.204 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:13:37.210 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:13:37.210 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:13:37.210 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:14:37.217 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:14:37.217 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:14:37.217 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:15:37.221 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:15:37.221 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:15:37.221 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:16:37.227 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:16:37.227 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:16:37.227 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:17:37.233 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:17:37.233 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:17:37.233 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:18:37.240 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:18:37.240 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:18:37.240 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:19:37.246 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:19:37.246 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:19:37.246 DEBUG 14180 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-04 14:20:08.246  INFO 14180 --- [on(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-04 14:20:08.246 DEBUG 14180 --- [on(4)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@368f2016, started on Tue Feb 04 13:46:32 KST 2020
+2020-02-04 14:20:08.247 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager is shutting down
+2020-02-04 14:20:08.247 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager shut down
+2020-02-04 14:20:08.247 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager is shutting down
+2020-02-04 14:20:08.247 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager shut down
+2020-02-04 14:20:08.248 DEBUG 14180 --- [on(4)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2020-02-04 14:20:08.248 DEBUG 14180 --- [on(4)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2020-02-04 14:20:08.248 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager is shutting down
+2020-02-04 14:20:08.248 DEBUG 14180 --- [on(4)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager shut down
+2020-02-04 14:20:08.248  INFO 14180 --- [on(4)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-04 14:20:08.248 DEBUG 14180 --- [nnection-reaper] com.amazonaws.http.IdleConnectionReaper  : Reaper thread: 
+=======
 2020-02-05 23:35:16.302 DEBUG 54360 --- [           main] .c.l.ClasspathLoggingApplicationListener : Application started with classpath: [file:/Users/jonghyunlim/Workspace/git/reviewaws/review/target/surefire/surefirebooter7653970864528651721.jar]
 2020-02-05 23:35:16.320 DEBUG 54360 --- [kground-preinit] .h.v.m.ResourceBundleMessageInterpolator : Loaded expression factory via original TCCL
 2020-02-05 23:35:16.326 DEBUG 54360 --- [kground-preinit] o.h.v.i.engine.ValidatorFactoryImpl      : HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
@@ -9190,11 +9291,17 @@ org.springframework.security.access.AccessDeniedException: Access is denied
 2020-02-05 23:49:17.485 DEBUG 54439 --- [on(3)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager is shutting down
 2020-02-05 23:49:17.485 DEBUG 54439 --- [on(3)-127.0.0.1] h.i.c.PoolingHttpClientConnectionManager : Connection manager shut down
 2020-02-05 23:49:17.485 DEBUG 54439 --- [nnection-reaper] com.amazonaws.http.IdleConnectionReaper  : Reaper thread: 
+>>>>>>> 977d8957c3c39b2c462b00ac9e7a095373b53344
 
 java.lang.InterruptedException: sleep interrupted
 	at java.lang.Thread.sleep(Native Method)
 	at com.amazonaws.http.IdleConnectionReaper.run(IdleConnectionReaper.java:188)
 
+<<<<<<< HEAD
+2020-02-04 14:20:08.249 DEBUG 14180 --- [nnection-reaper] com.amazonaws.http.IdleConnectionReaper  : Shutting down reaper thread.
+2020-02-04 14:20:08.249  INFO 14180 --- [on(4)-127.0.0.1] org.apache.tiles.access.TilesAccess      : Removing TilesContext for context: org.springframework.web.servlet.view.tiles3.SpringWildcardServletTilesApplicationContext
+=======
 2020-02-05 23:49:17.485 DEBUG 54439 --- [nnection-reaper] com.amazonaws.http.IdleConnectionReaper  : Shutting down reaper thread.
 2020-02-05 23:49:17.485  INFO 54439 --- [on(3)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2020-02-05 23:49:17.486  INFO 54439 --- [on(3)-127.0.0.1] org.apache.tiles.access.TilesAccess      : Removing TilesContext for context: org.springframework.web.servlet.view.tiles3.SpringWildcardServletTilesApplicationContext
+>>>>>>> 977d8957c3c39b2c462b00ac9e7a095373b53344
