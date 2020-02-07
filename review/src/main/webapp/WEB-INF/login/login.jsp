@@ -49,7 +49,13 @@
 	}
 	.reviewArea{
 		width: 100%;
-		height: 200px;
+		height: 180px;
+		text-align: left;
+		padding : 4px;
+	}
+	.reviewTitle{
+		width: 100%;
+		height: 20px;
 		text-align: left;
 		padding : 4px;
 	}
@@ -57,7 +63,7 @@
 	.reviewArea > textarea {
 		resize: none;
 		width: 98%;
-		height: 198px;
+		height: 168px;
 		background:#AAAA0011;
 		overflow:hidden;
     	border: 0px !important;
@@ -130,14 +136,14 @@ $(document).ready(function(){
 <div class="itemList slide-child">
    <div class="imageArea"><img src="img/img1.jpg"/></div>
    <div class="reviewArea">
-      <textarea readonly>일 시 : 2019년 11월 2일
-장소 : 공덕 IOT COC (1차), 바른치킨(2차)
-시간 : 3시, 6시</textarea>
+   	  <div class="reviewTitle" ><c:out value="${ reviewList[0].title }" /> </div>
+      <textarea readonly><c:out value="${ reviewList[0].content }" /></textarea>
    </div>
 </div>
 <div class="itemList slide-child">
    <div class="imageArea"><img src="img/img2.jpg"/></div>
    <div class="reviewArea">
+  	  <div class="reviewTitle" ><c:out value="${ reviewList[0].title }" /> </div>
       <textarea readonly>일시 : 2019년 9월 28일
 장소 : 공덕 IOT COC (1차), 바른치킨(2차)
 시간 : 3시, 6시
@@ -198,7 +204,7 @@ $(document).ready(function(){
 <div class="itemList slide-child">
    <div class="imageArea"><img src="img/img3.jpg"/></div>
    <div class="reviewArea" >
-   
+      <div class="reviewTitle" ><c:out value="${ reviewList[0].title }" /> </div>
       <textarea readonly>[2019년 9월 19일 7시 곱창팟 치킨모임 후기]
 
 장소 : 홍대 가오곱창
