@@ -137,8 +137,13 @@
 	</dependencyManagement>
 
 	<build>
+<<<<<<< HEAD
 		<!-- ROOT.war 가 생성된다. -->
         <finalName>ROOT</finalName>
+=======
+		<!-- review.war 가 생성된다. -->
+        <finalName>review</finalName>
+>>>>>>> 977d8957c3c39b2c462b00ac9e7a095373b53344
 	
 		<plugins>
 			<plugin>
