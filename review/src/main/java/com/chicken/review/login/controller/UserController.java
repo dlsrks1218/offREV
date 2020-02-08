@@ -50,7 +50,7 @@ public class UserController {
     	HttpServletRequest request = attr.getRequest();
     	HttpServletResponse response = attr.getResponse();
     	
-		System.out.println("TEST");
+		System.out.println("TEST!!!!");
 		System.out.println(user.getEmail());
 		System.out.println(user.getId());
 		System.out.println(user.getNickname());

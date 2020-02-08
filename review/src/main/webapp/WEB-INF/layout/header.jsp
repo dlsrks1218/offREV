@@ -29,10 +29,11 @@
     	float:left;
 	}
 	.logininfo{
-	    width: 150px;
-	    height: 50px;
-	    float: right;
-	    padding: 10px;
+	    text-align: center;
+		width: 150px;
+		height: 20px;
+		float: right;
+		padding: 15px;
 	}
 </style>
 <div class="header">

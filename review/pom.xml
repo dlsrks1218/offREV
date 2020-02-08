@@ -137,8 +137,8 @@
 	</dependencyManagement>
 
 	<build>
-		<!-- reivew.war 가 생성된다. -->
-        <finalName>reivew</finalName>
+		<!-- ROOT.war 가 생성된다. -->
+        <finalName>ROOT</finalName>
 	
 		<plugins>
 			<plugin>
