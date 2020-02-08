@@ -29296,3 +29296,193 @@ org.springframework.security.authentication.BadCredentialsException: 자격 증�
 2020-02-08 18:03:00.318 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-08 18:03:00.318 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-08 18:03:06.862 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:03:36.868 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:04:00.319 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:04:00.319 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:04:00.319 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:04:06.868 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:04:36.869 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:05:00.324 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:05:00.324 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:05:00.324 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:05:06.872 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:05:36.873 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:06:00.329 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:06:00.329 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:06:00.329 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:06:06.878 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:06:36.883 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:07:00.332 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:07:00.332 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:07:00.333 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:07:06.888 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:07:36.890 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:08:00.334 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:08:00.335 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:08:00.335 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:08:06.893 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:08:36.894 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:08:51.900 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/css/**'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/js/**'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/img/**'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/fonts/**'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/resources/**'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 1 of 11 in additional filter chain; firing Filter: 'WebAsyncManagerIntegrationFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 2 of 11 in additional filter chain; firing Filter: 'SecurityContextPersistenceFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] w.c.HttpSessionSecurityContextRepository : HttpSession returned null object for SPRING_SECURITY_CONTEXT
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] w.c.HttpSessionSecurityContextRepository : No SecurityContext was available from the HttpSession: org.apache.catalina.session.StandardSessionFacade@18a99af9. A new one will be created.
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 3 of 11 in additional filter chain; firing Filter: 'HeaderWriterFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 4 of 11 in additional filter chain; firing Filter: 'LogoutFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.web.util.matcher.OrRequestMatcher  : Trying to match using Ant [pattern='/logout', GET]
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/login'; against '/logout'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.web.util.matcher.OrRequestMatcher  : Trying to match using Ant [pattern='/logout', POST]
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Request 'GET /login' doesn't match 'POST /logout'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.web.util.matcher.OrRequestMatcher  : Trying to match using Ant [pattern='/logout', PUT]
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Request 'GET /login' doesn't match 'PUT /logout'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.web.util.matcher.OrRequestMatcher  : Trying to match using Ant [pattern='/logout', DELETE]
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Request 'GET /login' doesn't match 'DELETE /logout'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.web.util.matcher.OrRequestMatcher  : No matches found
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 5 of 11 in additional filter chain; firing Filter: 'UsernamePasswordAuthenticationFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.u.matcher.AntPathRequestMatcher  : Request 'GET /login' doesn't match 'POST /login'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 6 of 11 in additional filter chain; firing Filter: 'RequestCacheAwareFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.s.DefaultSavedRequest            : pathInfo: both null (property equals)
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.s.DefaultSavedRequest            : queryString: both null (property equals)
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.s.DefaultSavedRequest            : requestURI: arg1=/; arg2=/login (property not equals)
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.s.HttpSessionRequestCache        : saved request doesn't match
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 7 of 11 in additional filter chain; firing Filter: 'SecurityContextHolderAwareRequestFilter'
+2020-02-08 18:08:51.901 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 8 of 11 in additional filter chain; firing Filter: 'AnonymousAuthenticationFilter'
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.AnonymousAuthenticationFilter  : Populated SecurityContextHolder with anonymous token: 'org.springframework.security.authentication.AnonymousAuthenticationToken@6e9316a: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@166c8: RemoteIpAddress: 0:0:0:0:0:0:0:1; SessionId: 0DF2B6B94BD037301237D405F615CDF9; Granted Authorities: ROLE_ANONYMOUS'
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 9 of 11 in additional filter chain; firing Filter: 'SessionManagementFilter'
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 10 of 11 in additional filter chain; firing Filter: 'ExceptionTranslationFilter'
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login at position 11 of 11 in additional filter chain; firing Filter: 'FilterSecurityInterceptor'
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.i.FilterSecurityInterceptor    : Secure object: FilterInvocation: URL: /login; Attributes: [permitAll]
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.i.FilterSecurityInterceptor    : Previously Authenticated: org.springframework.security.authentication.AnonymousAuthenticationToken@6e9316a: Principal: anonymousUser; Credentials: [PROTECTED]; Authenticated: true; Details: org.springframework.security.web.authentication.WebAuthenticationDetails@166c8: RemoteIpAddress: 0:0:0:0:0:0:0:1; SessionId: 0DF2B6B94BD037301237D405F615CDF9; Granted Authorities: ROLE_ANONYMOUS
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.access.vote.AffirmativeBased       : Voter: org.springframework.security.web.access.expression.WebExpressionVoter@5b1df43c, returned: 1
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.i.FilterSecurityInterceptor    : Authorization successful
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.i.FilterSecurityInterceptor    : RunAsManager did not change Authentication object
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.security.web.FilterChainProxy        : /login reached end of additional filter chain; proceeding with original chain
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] o.s.web.servlet.DispatcherServlet        : GET "/login", parameters={}
+2020-02-08 18:08:51.902 DEBUG 5113 --- [nio-7000-exec-8] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to public java.lang.String com.chicken.review.login.controller.UserController.login(org.springframework.ui.Model,java.lang.String,java.lang.String)
+2020-02-08 18:08:51.903 DEBUG 5113 --- [nio-7000-exec-8] org.mybatis.spring.SqlSessionUtils       : Creating a new SqlSession
+2020-02-08 18:08:51.903 DEBUG 5113 --- [nio-7000-exec-8] org.mybatis.spring.SqlSessionUtils       : SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7d6f4f89] was not registered for synchronization because synchronization is not active
+2020-02-08 18:08:51.903 DEBUG 5113 --- [nio-7000-exec-8] o.s.jdbc.datasource.DataSourceUtils      : Fetching JDBC Connection from DataSource
+2020-02-08 18:08:51.912 DEBUG 5113 --- [nio-7000-exec-8] o.m.s.t.SpringManagedTransaction         : JDBC Connection [HikariProxyConnection@1940438612 wrapping com.mysql.cj.jdbc.ConnectionImpl@28fb7a9] will not be managed by Spring
+2020-02-08 18:08:51.912 DEBUG 5113 --- [nio-7000-exec-8] c.c.r.l.m.ReviewMapper.getReviewList     : ==>  Preparing: select * from review 
+2020-02-08 18:08:51.913 DEBUG 5113 --- [nio-7000-exec-8] c.c.r.l.m.ReviewMapper.getReviewList     : ==> Parameters: 
+2020-02-08 18:08:51.930 DEBUG 5113 --- [nio-7000-exec-8] c.c.r.l.m.ReviewMapper.getReviewList     : <==      Total: 3
+2020-02-08 18:08:51.930 DEBUG 5113 --- [nio-7000-exec-8] org.mybatis.spring.SqlSessionUtils       : Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@7d6f4f89]
+2020-02-08 18:08:51.931 DEBUG 5113 --- [nio-7000-exec-8] o.s.w.s.v.ContentNegotiatingViewResolver : Selected 'text/html' given [text/html, application/xhtml+xml, image/webp, image/apng, application/xml;q=0.9, application/signed-exchange;v=b3;q=0.9, */*;q=0.8]
+2020-02-08 18:08:51.931 DEBUG 5113 --- [nio-7000-exec-8] o.s.web.servlet.view.tiles3.TilesView    : View name 'login/login', model {reviewList=[ReviewVO(seq=1, title=제목1, content=내용이요, s3ImageUrl=https://reviewaws1.s3.ap-northeast-2.amazonaws.com/img1.jpg), ReviewVO(seq=2, title=제목2, content=일시 : 2019년 9월 28일
+장소 : 공덕 IOT COC (1차), 바른치킨(2차)
+시간 : 3시, 6시
+인원 1차 60명 2차 50명
+
+이번 모임은 공덕에서 진행되었습니다.
+장소를 빌려주신 IOT COC 담당분들께는 감사말씀 드립니다.
+
+이번 모임은 1차에서는 주로 세미나 위주
+2차에서는 치킨을 위주로 진행되었습니다.
+
+폰이 말썽이라 배터리가 다 닳아버린 이후로는, s3ImageUrl=https://reviewaws1.s3.ap-northeast-2.amazonaws.com/img2.jpg), ReviewVO(seq=3, title=제목3, content=[2019년 9월 19일 7시 곱창팟 치킨모임 후기]
+
+장소 : 홍대 가오곱창
+일시 : 9월 19일 7시
+인원 : 13명
+회비 : 25000 => 24000
+
+후기
+이번 모임은 특별히
+치킨이 아니라 곱창 모임이었다는 점.
+그리고 주말 모임이 아니라
+평일 모임이었다는 점이 달랐습니다~!
+
+제가 도착하는 시점이미
+라면이 세팅되어있었습니다.
+
+그러니까 갑자기 좀 찌개를 먹어야할 것 같은 그런
+분위기!...
+
+그리고 수저는 어디갔는지 안보이는 상황
+솔직히 자리는 좀 좁고... 이 가오곱창집
+가운데 마치 무인도처럼 가운데 저희 모임이 떠있는듯한 형국!
+
+기존의 치킨모임들의 경우 어색함의 시간이
+그리 길지 않았던 반면
+이번 모임은 살짝 어색함이 풀어지는 시간에
+딜레이가 있긴했습니다.
+
+가게 한가운데 저희가 있었기 때문에....
+
+어찌 되었든
+이 가게의 전략을 처음 파악했습니다.
+바로 그것은...
+라면과 주먹밥
+평소 같았다면 빠르게 먹었겠지만
+이 가게의 전략적 승부에 모임분들은 대응하지 않았습니다.
+
+과감하게 본론으로 들어가길 원했는데요~!
+문제는
+생각보다 할게 많다는점...
+고기를 굽거나 곱창을 굽기위한 노동력
+문제로 대화는 버벅버벅
+
+그래도~! 첫인원은 5명
+그리고 7명 10명
+11명 12명 13명 식으로 늘어나는 사람들~!
+
+덕분에 인사를 3번정도 했는데요.
+평일이라 급작스레 못오시는 분도 계셨습니다.
+
+적당한 소개는 10~11명 정도 모인 시점에 한번 진행되었습니다~!
+
+오신분들은 2~3년차 웹개발자~! 개발자를 구하시는 블록체인 대표님 그리고 십여년차 자바 개발자님을 비롯해, 7년간 에이젼시를 운영하신 분, 영화관련 일을 하시다가~! 스타트업에 뛰어드신분! 그리고 작은 사업을 하시다가 개발을 배우신분~! 그리고 스타트업을 기획하시는 분, 그리고 뮤지컬을 보는 일과 다양한 일들을 하시는 디자이너님, 늘 다른분의 이야기를 청종하시는 기획자님, 그리고 디자이너님과 친구분이 추가로 오셨는데요~!
+
+이 정도 인원이 되니 그래도 살짝씩은 대화를 섞어볼수 있어서 좋았습니다.
+
+물론 모임이 이번 모임 특성이 곱창을 뽀개는 것이었기 때문에 리필하는 것에 계속 집중했습니다.
+
+그 결과 저희 테이블은 5번의 리필~!
+다른 테이블까지 조사는 못했네요~!
+
+이런저런 이야기들을 했지만~!
+영화 관련된 이야기들을 많이 듣게 되어 좋았고~!
+무엇보다
+이번 모임때 수금과 결제를 대신해주신
+장원님께 감사의 말씀을 드립니다~!
+
+주말 모임이 쉽지 않은 분들이어서~!
+아이키우는 일에 대한 고충이 충분이 전달된 시간이었습니다.
+
+그리고 전 9월 28일 모임 장소 견학을 다녀오는 것으로~!
+모임을 끝냈네요~!
+
+이상 곱창팟 모임 후기였습니다~!, s3ImageUrl=https://reviewaws1.s3.ap-northeast-2.amazonaws.com/img3.jpg)]}
+2020-02-08 18:08:51.931 DEBUG 5113 --- [nio-7000-exec-8] o.apache.tiles.impl.BasicTilesContainer  : Render request received for definition 'login/login'
+2020-02-08 18:08:51.932 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.header.writers.HstsHeaderWriter  : Not injecting HSTS header since it did not match the requestMatcher org.springframework.security.web.header.writers.HstsHeaderWriter$SecureRequestMatcher@4e20a6c0
+2020-02-08 18:08:51.934 DEBUG 5113 --- [nio-7000-exec-8] w.c.HttpSessionSecurityContextRepository : SecurityContext is empty or contents are anonymous - context will not be stored in HttpSession.
+2020-02-08 18:08:51.935 DEBUG 5113 --- [nio-7000-exec-8] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+2020-02-08 18:08:51.935 DEBUG 5113 --- [nio-7000-exec-8] o.s.s.w.a.ExceptionTranslationFilter     : Chain processed normally
+2020-02-08 18:08:51.935 DEBUG 5113 --- [nio-7000-exec-8] s.s.w.c.SecurityContextPersistenceFilter : SecurityContextHolder now cleared, as request processing completed
+2020-02-08 18:08:51.956 DEBUG 5113 --- [nio-7000-exec-9] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img3.jpg'; against '/css/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [nio-7000-exec-9] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img3.jpg'; against '/js/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [nio-7000-exec-9] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img3.jpg'; against '/img/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [nio-7000-exec-9] o.s.security.web.FilterChainProxy        : /img/img3.jpg has an empty filter list
+2020-02-08 18:08:51.957 DEBUG 5113 --- [nio-7000-exec-9] o.s.web.servlet.DispatcherServlet        : GET "/img/img3.jpg", parameters={}
+2020-02-08 18:08:51.957 DEBUG 5113 --- [io-7000-exec-10] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img2.jpg'; against '/css/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [io-7000-exec-10] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img2.jpg'; against '/js/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [io-7000-exec-10] o.s.s.w.u.matcher.AntPathRequestMatcher  : Checking match of request : '/img/img2.jpg'; against '/img/**'
+2020-02-08 18:08:51.957 DEBUG 5113 --- [io-7000-exec-10] o.s.security.web.FilterChainProxy        : /img/img2.jpg has an empty filter list
+2020-02-08 18:08:51.957 DEBUG 5113 --- [io-7000-exec-10] o.s.web.servlet.DispatcherServlet        : GET "/img/img2.jpg", parameters={}
+2020-02-08 18:08:51.959 DEBUG 5113 --- [nio-7000-exec-9] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2020-02-08 18:08:51.959 DEBUG 5113 --- [io-7000-exec-10] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped to ResourceHttpRequestHandler ["classpath:/META-INF/resources/", "classpath:/resources/", "classpath:/static/", "classpath:/public/", "/"]
+2020-02-08 18:08:51.964 DEBUG 5113 --- [io-7000-exec-10] o.s.web.servlet.DispatcherServlet        : Completed 304 NOT_MODIFIED
+2020-02-08 18:08:51.964 DEBUG 5113 --- [nio-7000-exec-9] o.s.web.servlet.DispatcherServlet        : Completed 304 NOT_MODIFIED
+2020-02-08 18:09:00.340 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:09:00.340 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:09:00.340 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:09:06.900 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:09:36.901 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-08 18:10:00.341 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:10:00.342 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:10:00.342 DEBUG 5113 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-08 18:10:06.904 DEBUG 5113 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
