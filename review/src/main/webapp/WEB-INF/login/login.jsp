@@ -85,7 +85,7 @@
 
 $(document).ready(function(){
 	<c:if test="${ user == null }" >
-	Kakao.init('76a34fcaefc9ee59cfe964e231bf3bbf');
+	Kakao.init('cba4a6ecbbed2004943823ef13191ae2');
     // 카카오 로그인 버튼을 생성합니다.
     Kakao.Auth.createLoginButton({
       container: '#kakao-login-btn',
