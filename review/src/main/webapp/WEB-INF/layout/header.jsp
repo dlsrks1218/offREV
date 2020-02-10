@@ -26,30 +26,12 @@
 		padding-top:15px;
 		font-weight:bold;
     	color: #010101;
-    	float:left;
-	}
-	.logininfo{
-	    text-align: center;
-		width: 150px;
-		height: 20px;
-		float: right;
-		padding: 15px;
 	}
 </style>
 <div class="header">
 	<div class="headerWrapper">
-		<div class="logo">OffREV
-		
-		</div>
-		<div id="logininfo" class="logininfo">
-				
-		<c:if test="${ user != null }" >
-			<c:out value="${ user.nickname }" />
-		</c:if>
-		</div>
+	<div class="logo">OffREV</div>
 	</div>
-	
-	
 </div>
 
 </html>
