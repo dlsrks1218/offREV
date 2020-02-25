@@ -25,6 +25,6 @@
 
 <div class="footer">
 	<div class="footerWrapper">
-		 강사 : 배진호 , Copyright. All Rights Reserved.
+		 Copyright. All Rights Reserved.
 	</div>
 </div>
