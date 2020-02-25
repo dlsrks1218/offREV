@@ -15846,3 +15846,8 @@ org.springframework.security.access.AccessDeniedException: Access is denied
 2020-02-25 12:50:43.353 DEBUG 10502 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-25 12:50:43.353 DEBUG 10502 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
 2020-02-25 12:50:55.756 DEBUG 10502 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-25 12:51:25.761 DEBUG 10502 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2020-02-25 12:51:43.358 DEBUG 10502 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-25 12:51:43.358 DEBUG 10502 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-25 12:51:43.358 DEBUG 10502 --- [nnection-reaper] h.i.c.PoolingHttpClientConnectionManager : Closing connections idle longer than 60000 MILLISECONDS
+2020-02-25 12:51:55.766 DEBUG 10502 --- [l-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
