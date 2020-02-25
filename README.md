@@ -9,8 +9,8 @@ Screenshots
 
 Tech Stack
 ----------
-* Server : AWS EC2
-* DB : AWS RDS
+* Server : AWS EC2 (t2.large)
+* DB : AWS RDS (db.t2.micro)
 * Data : AWS S3
 * Web Framework : Spring Boot
 * Web Server : Apache Tomcat v9.0
